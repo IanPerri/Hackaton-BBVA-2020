@@ -1,5 +1,5 @@
 # Hackathon_BBVA_2020
-Final Result of the proyect Hackathon BBVA 2020 solving the Social Listening Challenge
+Final Result of the project Hackathon BBVA 2020 solving the Social Listening Challenge
 
 ## Social Listening
 Authors:
